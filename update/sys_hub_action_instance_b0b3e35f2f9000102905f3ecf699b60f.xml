@@ -4,7 +4,7 @@
         <action_inputs/>
         <action_type display_value="Log">5bc1bcc6531003003bf1d9109ec587d4</action_type>
         <action_type_parent/>
-        <comment>Log NeetIt Task closure</comment>
+        <comment>Log the reason for closing NeetIt Task</comment>
         <compiled_snapshot>5bc1bcc6531003003bf1d9109ec587d4</compiled_snapshot>
         <display_text/>
         <flow display_value="Handle Overdue NeedIt Tasks">4fbc1b1b2f9000102905f3ecf699b6fc</flow>
@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-10 16:09:15</sys_created_on>
         <sys_id>b0b3e35f2f9000102905f3ecf699b60f</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>34</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt Spoke" source="x_378698_needit_sp">640c5a8f2f9c40102905f3ecf699b69a</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt Spoke">640c5a8f2f9c40102905f3ecf699b69a</sys_scope>
         <sys_update_name>sys_hub_action_instance_b0b3e35f2f9000102905f3ecf699b60f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-10 23:35:25</sys_updated_on>
+        <sys_updated_on>2019-11-05 13:23:49</sys_updated_on>
         <ui_id>85209942-e9a2-402d-b4d6-ae369d9dccfe</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=b0b3e35f2f9000102905f3ecf699b60f"/>
@@ -44,9 +44,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-10 16:38:53</sys_created_on>
         <sys_id>cb7aef532fd000102905f3ecf699b6f7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-10 16:38:53</sys_updated_on>
+        <sys_updated_on>2019-11-05 12:51:47</sys_updated_on>
         <table>var__m_sys_hub_action_input_5bc1bcc6531003003bf1d9109ec587d4</table>
         <value>{{subflow.reason}}</value>
     </sys_element_mapping>

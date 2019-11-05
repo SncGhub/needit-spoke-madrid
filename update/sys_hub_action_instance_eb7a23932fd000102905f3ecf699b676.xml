@@ -4,7 +4,7 @@
         <action_inputs/>
         <action_type display_value="Log">5bc1bcc6531003003bf1d9109ec587d4</action_type>
         <action_type_parent display_value="Log">0e0ae8c2531003003bf1d9109ec587c8</action_type_parent>
-        <comment>Log NeetIt Task closure</comment>
+        <comment>Log the reason for closing NeetIt Task</comment>
         <compiled_snapshot>5bc1bcc6531003003bf1d9109ec587d4</compiled_snapshot>
         <display_text/>
         <flow display_value="Handle Overdue NeedIt Tasks">c37a23932fd000102905f3ecf699b625</flow>
@@ -14,14 +14,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-10-10 16:38:55</sys_created_on>
         <sys_id>eb7a23932fd000102905f3ecf699b676</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>10</sys_mod_count>
         <sys_name/>
         <sys_package display_value="NeedIt Spoke" source="x_378698_needit_sp">640c5a8f2f9c40102905f3ecf699b69a</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt Spoke">640c5a8f2f9c40102905f3ecf699b69a</sys_scope>
         <sys_update_name>sys_hub_action_instance_eb7a23932fd000102905f3ecf699b676</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-10-10 23:14:26</sys_updated_on>
+        <sys_updated_on>2019-11-05 13:21:10</sys_updated_on>
         <ui_id>85209942-e9a2-402d-b4d6-ae369d9dccfe</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=eb7a23932fd000102905f3ecf699b676"/>
