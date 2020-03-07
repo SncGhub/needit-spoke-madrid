@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_flow_cat_variable_model">
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>78be877a2f5300102905f3ecf699b6ae</id>
+        <name>Test Days Ago Date</name>
+        <sys_class_name>sys_flow_cat_variable_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-06 04:28:53</sys_created_on>
+        <sys_id>b4be877a2f5300102905f3ecf699b6af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Days Ago Date</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_378698_needit_sp">640c5a8f2f9c40102905f3ecf699b69a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">640c5a8f2f9c40102905f3ecf699b69a</sys_scope>
+        <sys_update_name>sys_flow_cat_variable_model_b4be877a2f5300102905f3ecf699b6af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-06 04:28:53</sys_updated_on>
+    </sys_flow_cat_variable_model>
+</record_update>
